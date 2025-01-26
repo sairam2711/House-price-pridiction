@@ -39,7 +39,7 @@ Installation
 Clone this repository to your local machine:
 
 
-git clone https://github.com/your-username/house-price-prediction.git
+git clone https://github.com/sairam2711/house-price-prediction.git
 cd house-price-prediction
 Install the required dependencies:
 
